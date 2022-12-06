@@ -32,7 +32,7 @@
     "grunt-contrib-uglify": "~0.2.7",
     "grunt-rev": "~0.1.0",
     "grunt-usemin": "~2.0.2",
-    "http-server": "^0.11.1",
+    "http-server": "^0.11.2",
     "jasmine-core": "^3.5.0",
     "karma": "^3.1.4",
     "karma-chrome-launcher": "^2.2.0",
